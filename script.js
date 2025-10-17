@@ -5,7 +5,7 @@ darkBtn.addEventListener("click", function(){
     body.classList.toggle("dark-mode");
 });
 
-let increaseBtn = document.getElementById("increaseFont")
+let  increaseBtn = document.getElementById("increaseFont")
 let decreaseBtn = document.getElementById("decreaseFont")
 
 let progressBar = document.getElementById("progressBar");
